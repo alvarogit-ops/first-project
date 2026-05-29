@@ -2,3 +2,5 @@ venv/
 env/
 __pycache()__/
 __pycache/
+barber_grid/migrations/00*.py
+db.sqlite3
